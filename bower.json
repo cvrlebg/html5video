@@ -1,0 +1,26 @@
+{
+  "name": "html5video",
+  "version": "1.0.0",
+  "authors": [
+    "Cvrle <milosh.mar@gmail.com>"
+  ],
+  "description": "Html5 video using RequireJS and VideoJS",
+  "main": "main.js",
+  "keywords": [
+    "html5",
+    "video",
+    "videojs",
+    "requirejs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],  
+  "dependencies": {
+    "videojs": "4.12.4"
+  }
+}
