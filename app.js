@@ -33,7 +33,7 @@ define(['jquery', "videojs", 'mwLoader'], function($, vjs) {
                     console.log(test);
                 }
                     
-            } else {
+            } else { 
                 console.log('Check entryId or kaltura service.');
             }          
         }
